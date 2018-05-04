@@ -21,15 +21,15 @@ Các vấn đề về công nghệ được nhận diện:
 <p>Vd: Khi bị rắn cắn ta cần hỏi xem con rắn màu gì, cắn ở đâu, khoảng bao lâu rồi... bước này gọi là Q/A các input cần thiết cho quá trình tư vấn cách giải quyết vấn đề. </p>
 <p>5. Sau quá trình Q/A về các yếu tố cần thiết, thì sẻ swich case và đưa ra giải pháp. Về cơ bản toàn bộ text/html của cách giải quyết luôn lưu ở local db. nhưng image/video animation sẻ được tải từ internet nếu có mạng. Trong trường hợp ko có mạng cần tạo ra phương pháp trực quan và sinh động bằng html css.</p>
 <p align="center">
-<img src="https://github.com/hieuxinhe94/SuMan/blob/master/Screenshot_20180504-154308.png" width="150" />
-<img src="https://github.com/hieuxinhe94/SuMan/blob/master/Screenshot_20180504-155158.png" width="150" />
-<img src="https://github.com/hieuxinhe94/SuMan/blob/master/Screenshot_20180504-155857.png" width="150" />
-<img src="https://github.com/hieuxinhe94/SuMan/blob/master/Screenshot_20180504-155908.png" width="150" />
-<img src="https://github.com/hieuxinhe94/SuMan/blob/master/Screenshot_20180504-155919.png" width="150" />
-<img src="https://github.com/hieuxinhe94/SuMan/blob/master/Screenshot_20180504-155924.png" width="150" />
-<img src="https://github.com/hieuxinhe94/SuMan/blob/master/Screenshot_20180504-160244.png" width="150" />
-<img src="https://github.com/hieuxinhe94/SuMan/blob/master/Screenshot_20180504-160255.png" width="150" />
-<img src="https://github.com/hieuxinhe94/SuMan/blob/master/Screenshot_20180504-160436%201.png" width="150" />
+<img src="https://github.com/hieuxinhe94/SuMan/blob/master/Screenshot_20180504-154308.png" width="250" />
+<img src="https://github.com/hieuxinhe94/SuMan/blob/master/Screenshot_20180504-155158.png" width="250" />
+<img src="https://github.com/hieuxinhe94/SuMan/blob/master/Screenshot_20180504-155857.png" width="250" />
+<img src="https://github.com/hieuxinhe94/SuMan/blob/master/Screenshot_20180504-155908.png" width="250" />
+<img src="https://github.com/hieuxinhe94/SuMan/blob/master/Screenshot_20180504-155919.png" width="250" />
+<img src="https://github.com/hieuxinhe94/SuMan/blob/master/Screenshot_20180504-155924.png" width="250" />
+<img src="https://github.com/hieuxinhe94/SuMan/blob/master/Screenshot_20180504-160244.png" width="250" />
+<img src="https://github.com/hieuxinhe94/SuMan/blob/master/Screenshot_20180504-160255.png" width="250" />
+<img src="https://github.com/hieuxinhe94/SuMan/blob/master/Screenshot_20180504-160436%201.png" width="250" />
  
 </p> 
 
